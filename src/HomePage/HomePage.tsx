@@ -42,6 +42,7 @@ export const HomePage = () => (
         <a className='navbar-brand' href='#'>
           <span className='text-primary'>Space</span> Shop
         </a>
+
         <button
           className='navbar-toggler'
           type='button'
@@ -53,6 +54,7 @@ export const HomePage = () => (
         >
           <span className='navbar-toggler-icon'></span>
         </button>
+
         <div className='collapse navbar-collapse' id='navbarDark'>
           <ul className='navbar-nav ml-auto'>
             <li className='nav-item active'>
